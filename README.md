@@ -2,14 +2,16 @@
 
 ### **基本操作：**
 
-| **W**      | 前移動        |
-| **A**      | 左移動        |
-| **S**      | 後移動        |
-| **D**      | 右移動        |
-| **R**      | リロード       |
-| **J**      | 射撃モードの切り替え |
-| **mouse1** | 攻撃         |
-| **esc**    | ポーズ        |
+| **キー**      | **操作**       |
+| ---------- | ---------- |
+| W      | 前移動        |
+| A      | 左移動        |
+| S      | 後移動        |
+| D      | 右移動        |
+| R      | リロード       |
+| J      | 射撃モードの切り替え |
+| mouse1 | 攻撃         |
+| esc    | ポーズ        |
 
 ### **目標：**
 
@@ -32,9 +34,9 @@
 
 ### **録画：**
 
--[https://youtu.be/DeRXafQLDcY](https://youtu.be/DeRXafQLDcY "https://youtu.be/DeRXafQLDcY") （学校レベル）
+[https://youtu.be/DeRXafQLDcY](https://youtu.be/DeRXafQLDcY "https://youtu.be/DeRXafQLDcY") （学校レベル）
 
--[https://youtu.be/ZQjAaiCCSKY](https://youtu.be/ZQjAaiCCSKY "https://youtu.be/ZQjAaiCCSKY") （森レベル）
+[https://youtu.be/ZQjAaiCCSKY](https://youtu.be/ZQjAaiCCSKY "https://youtu.be/ZQjAaiCCSKY") （森レベル）
 
 ### **担当：**
 
